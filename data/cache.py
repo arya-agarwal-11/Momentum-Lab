@@ -122,5 +122,3 @@ def clear_cache():
         except OSError:
 
             pass
-
-# idk testing testing
