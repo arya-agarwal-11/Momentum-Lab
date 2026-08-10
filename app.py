@@ -1269,35 +1269,3 @@ if holdings:
     )
 
 
-# ============================================================
-# DISCLAIMER
-# ============================================================
-
-st.divider()
-
-st.caption(
-    """
-    ⚠️ Research/educational tool only. This backtest is
-    simplified and does not currently account for transaction
-    costs, short borrow costs, slippage, survivorship bias,
-    delisted securities, or historical index constituent changes.
-    """
-)
-
-
-
-# ============================================================
-# DISCLAIMER
-# ============================================================
-
-st.divider()
-
-st.caption(
-    """
-    ⚠️ Research/educational tool only. This backtest is
-    simplified and does not currently account for transaction
-    costs, short borrow costs, slippage, survivorship bias,
-    delisted securities, or historical index constituent changes.
-    """
-)
-
